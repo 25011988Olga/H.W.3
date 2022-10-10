@@ -1,0 +1,15 @@
+C:\Users\RonYizly\Desktop\Д.З.№ 3\семинар 3\blueberry\bin\Debug\net6.0\blueberry.exe
+C:\Users\RonYizly\Desktop\Д.З.№ 3\семинар 3\blueberry\bin\Debug\net6.0\blueberry.deps.json
+C:\Users\RonYizly\Desktop\Д.З.№ 3\семинар 3\blueberry\bin\Debug\net6.0\blueberry.runtimeconfig.json
+C:\Users\RonYizly\Desktop\Д.З.№ 3\семинар 3\blueberry\bin\Debug\net6.0\blueberry.dll
+C:\Users\RonYizly\Desktop\Д.З.№ 3\семинар 3\blueberry\bin\Debug\net6.0\blueberry.pdb
+C:\Users\RonYizly\Desktop\Д.З.№ 3\семинар 3\blueberry\obj\Debug\net6.0\blueberry.csproj.AssemblyReference.cache
+C:\Users\RonYizly\Desktop\Д.З.№ 3\семинар 3\blueberry\obj\Debug\net6.0\blueberry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RonYizly\Desktop\Д.З.№ 3\семинар 3\blueberry\obj\Debug\net6.0\blueberry.AssemblyInfoInputs.cache
+C:\Users\RonYizly\Desktop\Д.З.№ 3\семинар 3\blueberry\obj\Debug\net6.0\blueberry.AssemblyInfo.cs
+C:\Users\RonYizly\Desktop\Д.З.№ 3\семинар 3\blueberry\obj\Debug\net6.0\blueberry.csproj.CoreCompileInputs.cache
+C:\Users\RonYizly\Desktop\Д.З.№ 3\семинар 3\blueberry\obj\Debug\net6.0\blueberry.dll
+C:\Users\RonYizly\Desktop\Д.З.№ 3\семинар 3\blueberry\obj\Debug\net6.0\refint\blueberry.dll
+C:\Users\RonYizly\Desktop\Д.З.№ 3\семинар 3\blueberry\obj\Debug\net6.0\blueberry.pdb
+C:\Users\RonYizly\Desktop\Д.З.№ 3\семинар 3\blueberry\obj\Debug\net6.0\blueberry.genruntimeconfig.cache
+C:\Users\RonYizly\Desktop\Д.З.№ 3\семинар 3\blueberry\obj\Debug\net6.0\ref\blueberry.dll
