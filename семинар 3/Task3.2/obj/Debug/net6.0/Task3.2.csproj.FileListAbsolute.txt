@@ -1,0 +1,15 @@
+C:\Users\RonYizly\Desktop\Д.З.№ 3\семинар 3\Task3.2\bin\Debug\net6.0\Task3.2.exe
+C:\Users\RonYizly\Desktop\Д.З.№ 3\семинар 3\Task3.2\bin\Debug\net6.0\Task3.2.deps.json
+C:\Users\RonYizly\Desktop\Д.З.№ 3\семинар 3\Task3.2\bin\Debug\net6.0\Task3.2.runtimeconfig.json
+C:\Users\RonYizly\Desktop\Д.З.№ 3\семинар 3\Task3.2\bin\Debug\net6.0\Task3.2.dll
+C:\Users\RonYizly\Desktop\Д.З.№ 3\семинар 3\Task3.2\bin\Debug\net6.0\Task3.2.pdb
+C:\Users\RonYizly\Desktop\Д.З.№ 3\семинар 3\Task3.2\obj\Debug\net6.0\Task3.2.csproj.AssemblyReference.cache
+C:\Users\RonYizly\Desktop\Д.З.№ 3\семинар 3\Task3.2\obj\Debug\net6.0\Task3.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RonYizly\Desktop\Д.З.№ 3\семинар 3\Task3.2\obj\Debug\net6.0\Task3.2.AssemblyInfoInputs.cache
+C:\Users\RonYizly\Desktop\Д.З.№ 3\семинар 3\Task3.2\obj\Debug\net6.0\Task3.2.AssemblyInfo.cs
+C:\Users\RonYizly\Desktop\Д.З.№ 3\семинар 3\Task3.2\obj\Debug\net6.0\Task3.2.csproj.CoreCompileInputs.cache
+C:\Users\RonYizly\Desktop\Д.З.№ 3\семинар 3\Task3.2\obj\Debug\net6.0\Task3.2.dll
+C:\Users\RonYizly\Desktop\Д.З.№ 3\семинар 3\Task3.2\obj\Debug\net6.0\refint\Task3.2.dll
+C:\Users\RonYizly\Desktop\Д.З.№ 3\семинар 3\Task3.2\obj\Debug\net6.0\Task3.2.pdb
+C:\Users\RonYizly\Desktop\Д.З.№ 3\семинар 3\Task3.2\obj\Debug\net6.0\Task3.2.genruntimeconfig.cache
+C:\Users\RonYizly\Desktop\Д.З.№ 3\семинар 3\Task3.2\obj\Debug\net6.0\ref\Task3.2.dll
